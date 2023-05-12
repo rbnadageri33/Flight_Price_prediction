@@ -1,14 +1,15 @@
 # Flight_Price_prediction
 
-# we have 2 deta set one is Train and second one is Test
+#we have 2 deta set one is Train and second one is Test
 
-# lets import both and process with Train data set
+#lets import both and process with Train data set
 
-# Here we build the model using Sklearn library 
+#Here we build the model using Sklearn library 
 
-# we used "RandomizedSearchCV" and "RandomForestRegressor" and "ExtraTreesRegressor" and "DecisionTreeRegressor" to check the better accuracy of model
+#we used "RandomizedSearchCV" and "RandomForestRegressor" and "ExtraTreesRegressor" and "DecisionTreeRegressor" to check the better accuracy of model
 
-# Below attached few visualization chart
+# Below attached few visualization chart from the notebook
+
 ![catplot1](https://github.com/rbnadageri33/Flight_Price_prediction/assets/98470709/f5f3cfdd-85c8-43bb-8644-aea82a4d1021)
 
 ![barplot_flight3](https://github.com/rbnadageri33/Flight_Price_prediction/assets/98470709/d0164e1d-8c91-40a8-9863-beddd391a822)
